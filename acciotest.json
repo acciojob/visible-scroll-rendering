@@ -1,4 +1,4 @@
 {
-    "testRepo": "solution-repo-name",
+    "testRepo": "visible-scroll-rendering-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
